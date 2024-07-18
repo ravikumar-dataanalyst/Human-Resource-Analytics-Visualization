@@ -15,3 +15,8 @@ Enhance data analysis capabilities through DAX functions.
 4. Data Visualization
 Design interactive and insightful visuals to represent HR KPIs, employee performance, engagement, and workforce trends.
 Ensure an engaging and user-friendly dashboard experience.
+
+
+KEY INSIGHTS: Here are some of the key findings from this project:
+
+The age group of 26 to 35 experienced the highest attrition rate. Individuals with a background in Life Sciences and those in Laboratory Technician roles had the highest attrition percentages. Employees with 1 to 2 years of experience showed the highest attrition rates. Job satisfaction was found to be directly proportional to attrition. Interestingly, employees earning below the average salary of 6.5k were more likely to leave the company. The dataset is from Rishabh Mishra Channel
